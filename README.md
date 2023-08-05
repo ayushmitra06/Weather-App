@@ -19,7 +19,3 @@ Instructions:
 2. The app will display the current weather information for the specified location, including "Feels Like" temperature.
 
 Note: This project was created as a small weather app for learning purposes and may be expanded in the future to include additional features. Feel free to use and modify the code as needed for your own projects.
-
----
-You can adjust the description and instructions as needed, but this short readme file should give a brief overview of the project and the technologies used.
-
