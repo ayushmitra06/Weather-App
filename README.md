@@ -2,7 +2,7 @@
 Project Title: Weather App
 
 Description:
-This is a simple weather app that allows users to search for weather information based on their location. The app fetches weather data from the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed.
+This is a functional weather app that allows users to search for weather information based on their location. The app fetches weather data from the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed.
 Web-App link: https://ayushmitra06.github.io/Weather-App/
 
 ![weather app thumbnail 2](https://github.com/ayushmitra06/Weather-App/assets/89930295/71f3f5be-3aff-4f5b-a46b-c270fb19d305)
